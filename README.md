@@ -18,6 +18,11 @@ SO THAT our own site is optimized for search engines
 *WHEN I view the title element
 *THEN I find a concise, descriptive title
 
+**mock up**
+
+<img src="Screenshot 2022-03-24 224432.png" >
+
+
 
 > **Note**: This layout is designed for desktop viewing, so you may notice that some of the elements don't look like the mock-up at a resolution smaller than 768px. Eventually you'll learn how to make elements responsive so that your web application is optimized for any screen size.
 

@@ -18,10 +18,6 @@ SO THAT our own site is optimized for search engines
 *WHEN I view the title element
 *THEN I find a concise, descriptive title
 
-**Mock-Up**
-
-The following image shows the web application's appearance and functionality:
-
 
 > **Note**: This layout is designed for desktop viewing, so you may notice that some of the elements don't look like the mock-up at a resolution smaller than 768px. Eventually you'll learn how to make elements responsive so that your web application is optimized for any screen size.
 
@@ -32,11 +28,12 @@ The following image shows the web application's appearance and functionality:
    a. assigned Header, Body, and Footer
    b. assigned sections within Header (nav) and Body (article, aside)
    c. added classes and ids to tags to help consolidate CSS elements
+   d. adjusted spacing and tab for detailed look
 
    ```
 2. `(CSS)` Cleaned up redundancy
    ```
-   a. Consolidated redundant selectors
+   a. Consolidated tag selectors
     -.header div ul {} and .header div ul li {}
     -benefit-lead, benefit-brand, benefit-cost
     -benefit h3
